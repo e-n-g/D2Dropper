@@ -1,0 +1,5 @@
+{"keyword": "perfect diamond", "occu": "8"}
+{"keyword": "tal rune", "occu": "4"}
+{"keyword": "shael rune", "occu": "4"}
+{"keyword": "ko rune", "occu": "4"}
+{"keyword": "lem rune", "occu": "4"}

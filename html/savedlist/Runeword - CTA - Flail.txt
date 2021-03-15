@@ -1,0 +1,6 @@
+{"keyword": "flail,(5),!call to arms", "occu": "1"}
+{"keyword": "amn rune", "occu": "1"}
+{"keyword": "ral rune", "occu": "1"}
+{"keyword": "mal rune", "occu": "1"}
+{"keyword": "ist rune", "occu": "1"}
+{"keyword": "ohm rune", "occu": "1"}

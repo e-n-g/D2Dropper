@@ -2,4 +2,4 @@
 {"keyword": "ohm rune", "occu": "1"}
 {"keyword": "ist rune", "occu": "1"}
 {"keyword": "dol rune", "occu": "1"}
-{"keyword": "Hel Rune", "occu": "1"}
+{"keyword": "hel Rune", "occu": "1"}

@@ -1,0 +1,3 @@
+{"keyword": "key of terror", "occu": "6"}
+{"keyword": "key of hate", "occu": "6"}
+{"keyword": "key of destruction", "occu": "6"}
